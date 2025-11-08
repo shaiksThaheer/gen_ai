@@ -1,7 +1,7 @@
 🧠 GenAI Portfolio Manager
 
  Overview
-GenAI Portfolio Manager** is an AI-powered project designed to intelligently analyze, manage, and optimize investment portfolios using **Generative AI**, **Python**, and **Data Science**.  
+GenAI Portfolio Manager is an AI-powered project designed to intelligently analyze, manage, and optimize investment portfolios using **Generative AI**, **Python**, and **Data Science**.  
 It leverages automation, data-driven insights, and dynamic recommendations to help users make informed investment decisions.
 
 ---
@@ -79,4 +79,5 @@ Create a feature branch (git checkout -b feature-idea)
 Commit your changes (git commit -m 'Add new feature')
 
 Push and open a Pull Request
+
 
